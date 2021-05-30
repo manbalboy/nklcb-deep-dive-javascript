@@ -12,6 +12,7 @@ javascript에 대해 이해하고 학습하는데 의의를 둡니다.
 
 ## 4. 준비사항
 > [fork하는법](https://github.com/manbalboy/nklcb-deep-dive-javascript/blob/master/doc/1.fork.md)
+
 > [Pull Request 하는법](https://manbalboy.github.io/it/git01.html)
 
 ## 5. 스터디방법 및 규칙

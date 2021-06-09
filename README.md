@@ -2,7 +2,8 @@
 
 ## 1. 구성원
  - [정훈(manbalboy)](https://github.com/manbalboy)
- - [방형진(stBbang)](https://github.com/stBbang)
+ - [방형진(stBbang))](https://github.com/stBbang)
+ - [김현욱(kkimdo20))](https://github.com/kkimdo20)
 
 ## 2. 목적
 javascript에 대해 이해하고 학습하는데 의의를 둡니다.

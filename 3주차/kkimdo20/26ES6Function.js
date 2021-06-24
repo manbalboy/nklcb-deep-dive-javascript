@@ -20,6 +20,7 @@ const obj = {
 
     foo(){return this.x; },
 
+    bar: function() { return this.x; }
 };
 
 console.log(obj.foo()); // 1
